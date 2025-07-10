@@ -7,3 +7,7 @@
 ## Introduction to Machine Learning 8/9
 
 - 1.2: Introduction to Python
+- 2.1: Intro to Supervised Learning
+- 2.2: NumPy and Pandas
+- 3.1: Data Preprocessing
+- 4.1: Evaluation Metrics

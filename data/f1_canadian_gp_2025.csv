@@ -1,11 +1,11 @@
 grid,positionText_x,points,laps,round,nationality,points_y,wins,company,status,forename,surname
-1,1,25.0,70,10,British,25.0,0,Mercedes,Finished,George,Russell
-2,2,18.0,70,10,Dutch,18.0,0,Red Bull Racing,Finished,Max,Verstappen
+1,1,25.0,70,10,British,25.0,4,Mercedes,Finished,George,Russell
+2,2,18.0,70,10,Dutch,18.0,65,Red Bull Racing,Finished,Max,Verstappen
 4,4,15.0,70,10,Italian,15.0,0,Mercedes,Finished,Kimi,Antonelli
-3,3,12.0,70,10,Australian,12.0,0,McLaren,Finished,Oscar,Piastri
-8,8,10.0,70,10,Monegasque,10.0,0,Ferrari,Finished,Charles,Leclerc
-5,5,8.0,70,10,British,8.0,0,Ferrari,Finished,Lewis,Hamilton
-6,6,6.0,70,10,Spanish,6.0,0,Aston Martin,Finished,Fernando,Alonso
+3,3,12.0,70,10,Australian,12.0,7,McLaren,Finished,Oscar,Piastri
+8,8,10.0,70,10,Monegasque,10.0,8,Ferrari,Finished,Charles,Leclerc
+5,5,8.0,70,10,British,8.0,105,Ferrari,Finished,Lewis,Hamilton
+6,6,6.0,70,10,Spanish,6.0,32,Aston Martin,Finished,Fernando,Alonso
 11,11,4.0,70,10,German,4.0,0,Kick Sauber,Finished,Nico,Hulkenberg
 14,14,2.0,69,10,French,2.0,0,Haas F1 Team,Lapped,Esteban,Ocon
 16,16,1.0,69,10,Spanish,1.0,0,Williams,Lapped,Carlos,Sainz

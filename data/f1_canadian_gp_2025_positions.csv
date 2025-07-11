@@ -1,0 +1,21 @@
+grid,positionText_x,points,laps,round,nationality,points_y,position,wins,company,status,forename,surname
+1,1,25.0,70,10,British,25.0,1,0,Mercedes,Finished,George,Russell
+2,2,18.0,70,10,Dutch,18.0,2,0,Red Bull Racing,Finished,Max,Verstappen
+4,4,15.0,70,10,Italian,15.0,3,0,Mercedes,Finished,Kimi,Antonelli
+3,3,12.0,70,10,Australian,12.0,4,0,McLaren,Finished,Oscar,Piastri
+8,8,10.0,70,10,Monegasque,10.0,5,0,Ferrari,Finished,Charles,Leclerc
+5,5,8.0,70,10,British,8.0,6,0,Ferrari,Finished,Lewis,Hamilton
+6,6,6.0,70,10,Spanish,6.0,7,0,Aston Martin,Finished,Fernando,Alonso
+11,11,4.0,70,10,German,4.0,8,0,Kick Sauber,Finished,Nico,Hulkenberg
+14,14,2.0,69,10,French,2.0,9,0,Haas F1 Team,Lapped,Esteban,Ocon
+16,16,1.0,69,10,Spanish,1.0,10,0,Williams,Lapped,Carlos,Sainz
+13,13,0.0,69,10,British,0.0,11,0,Haas F1 Team,Lapped,Oliver,Bearman
+18,18,0.0,69,10,Japanese,0.0,12,0,Red Bull Racing,Lapped,Yuki,Tsunoda
+10,10,0.0,69,10,Argentine,0.0,13,0,Alpine,Lapped,Franco,Colapinto
+15,15,0.0,69,10,Brazilian,0.0,14,0,Kick Sauber,Lapped,Gabriel,Bortoleto
+20,20,0.0,69,10,French,0.0,15,0,Alpine,Lapped,Pierre,Gasly
+12,12,0.0,69,10,French,0.0,16,0,Racing Bulls,Lapped,Isack,Hadjar
+17,17,0.0,69,10,Canadian,0.0,17,0,Aston Martin,Lapped,Lance,Stroll
+7,7,0.0,66,10,British,0.0,18,0,McLaren,Retired,Lando,Norris
+19,19,0.0,53,10,New Zealander,0.0,19,0,Racing Bulls,Retired,Liam,Lawson
+9,9,0.0,46,10,Thai,0.0,20,0,Williams,Retired,Alexander,Albon
